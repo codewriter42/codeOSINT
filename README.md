@@ -21,7 +21,7 @@
 
 ### 📥 Clone the Repository
 ```bash
-git clone [https://github.com/codewriter42/codeOSINT.git](https://github.com/codewriter42/codeOSINT.git)
+git clone https://github.com/codewriter42/codeOSINT.git
 cd codeOSINT
 pip install -r requirements.txt
 python3 codeOSINT.py
